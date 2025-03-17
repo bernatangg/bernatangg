@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **iOS, Jetpack compose, mobile security**
 
-- 📫 How to reach me **dietta.anggie@gmail.com**
+- 📫 How to reach me **djavasoegar07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
