@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Mobile Developer | Android & Flutter Enthusiast | Exploring iOS & Web3</b>
+  <b>Mobile Developer | Android & Flutter Enthusiast | Exploring Web3</b>
 </p>
 
 ---
@@ -17,6 +17,7 @@ I'm a passionate **Mobile Developer** with experience building production-ready 
 - 🚀 **Jetpack Compose** for modern Android UI development  
 - 🍎 **SwiftUI & iOS Development**  
 - 🌐 **Web3 Integration** in mobile apps
+- 🌐 **Smart Contract**
 
 I love creating clean, maintainable code and continuously exploring new technologies to improve user experience and developer productivity.
 
