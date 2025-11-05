@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anggie 👋</h1>
+<h1 align="center">Hi there, I'm Anggie</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif">
