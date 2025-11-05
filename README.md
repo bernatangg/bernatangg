@@ -36,15 +36,6 @@ I love creating clean, maintainable code and continuously exploring new technolo
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernatangg&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernatangg&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
 ## 📬 Get in Touch
 
 Feel free to reach out if you'd like to collaborate, need help with a mobile project, or just want to talk tech!
